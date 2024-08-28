@@ -1,1 +1,2 @@
 # Sickle-Cell-Detection-Project
+Sickle Cell Anemia (SCA) is a hereditary blood disorder caused by a genetic mutation that affects the structure of hemoglobin, the protein responsible for carrying oxygen in red blood cells.The sickle cell anemia detection project using Convolutional Neural Networks (CNN) is showing promising results which demonstrated the potential to accurately identify sickle cell disease from blood smear images. This can aid in early diagnosis and treatment of the condition, improving patient outcomes at the same time spreading awareness about it.
